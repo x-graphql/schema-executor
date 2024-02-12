@@ -1,5 +1,5 @@
 {
-    "name": "xgraphql/schema-executor",
+    "name": "x-graphql/schema-executor",
     "description": "Abstraction layer for executing GraphQL schema",
     "type": "library",
     "require-dev": {
